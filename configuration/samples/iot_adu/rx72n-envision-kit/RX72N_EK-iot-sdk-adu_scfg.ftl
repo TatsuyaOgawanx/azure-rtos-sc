@@ -93,7 +93,7 @@
             <source description="Components supporting Firmware Integration Technology" display="Firmware Integration Technology" id="com.renesas.smc.tools.swcomponent.fit.source"/>
         </configuration>
         <configuration inuse="true" name="r_sci_rx">
-            <component detailDescription="Multi-Channel Multi-Mode SCI Driver." display="r_sci_rx" id="r_sci_rx4.90" version="4.90">
+            <component detailDescription="Multi-Channel Multi-Mode SCI Driver." display="r_sci_rx" id="r_sci_rx5.00" version="5.00">
                 <gridItem id="RXD2/SMISO2/SSCL2" selectedIndex="1"/>
                 <gridItem id="TXD2/SMOSI2/SSDA2" selectedIndex="1"/>
                 <gridItem id="SCI2" selectedIndex="1"/>

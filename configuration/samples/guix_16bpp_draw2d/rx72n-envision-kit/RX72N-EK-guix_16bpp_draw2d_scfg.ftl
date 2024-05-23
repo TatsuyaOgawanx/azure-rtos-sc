@@ -65,7 +65,7 @@
             <source description="Components supporting Firmware Integration Technology" display="Firmware Integration Technology" id="com.renesas.smc.tools.swcomponent.fit.source"/>
         </configuration>
         <configuration inuse="true" name="r_sci_iic_rx">
-            <component display="r_sci_iic_rx" id="r_sci_iic_rx2.70" version="2.70">
+            <component display="r_sci_iic_rx" id="r_sci_iic_rx2.71" version="2.71">
                 <gridItem id="SSCL6" selectedIndex="1"/>
                 <gridItem id="SSDA6" selectedIndex="1"/>
                 <gridItem id="SCI6" selectedIndex="1"/>
