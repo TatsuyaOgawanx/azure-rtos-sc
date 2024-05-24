@@ -28,7 +28,7 @@
             <source description="Components supporting Firmware Integration Technology" display="Firmware Integration Technology" id="com.renesas.smc.tools.swcomponent.fit.source"/>
         </configuration>
         <configuration inuse="true" name="r_flash_rx">
-            <component display="r_flash_rx" id="r_flash_rx5.10" version="5.10">
+            <component display="r_flash_rx" id="r_flash_rx5.11" version="5.11">
                 <gridItem id="FLASH_CFG_CODE_FLASH_ENABLE" selectedIndex="1"/>
                 <gridItem id="FLASH_CFG_DATA_FLASH_BGO" selectedIndex="1"/>
                 <gridItem id="FLASH_CFG_CODE_FLASH_BGO" selectedIndex="1"/>
@@ -48,7 +48,7 @@
             <source description="Components supporting Firmware Integration Technology" display="Firmware Integration Technology" id="com.renesas.smc.tools.swcomponent.fit.source"/>
         </configuration>
         <configuration inuse="true" name="r_sci_rx">
-            <component display="r_sci_rx" id="r_sci_rx4.90" version="4.90">
+            <component display="r_sci_rx" id="r_sci_rx5.00" version="5.00">
                 <gridItem id="RXD10/SMISO10/SSCL10" selectedIndex="1"/>
                 <gridItem id="TXD10/SMOSI10/SSDA10" selectedIndex="1"/>
                 <gridItem id="SCI10" selectedIndex="1"/>
